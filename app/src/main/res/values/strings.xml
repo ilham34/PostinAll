@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PostinAll</string>
+    <string name="tags">Tags</string>
+    <string name="reactions">Reactions</string>
+</resources>
